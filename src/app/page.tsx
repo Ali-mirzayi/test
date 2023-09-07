@@ -3,7 +3,7 @@ import Filter from '@/components/Filter';
 import Pagination from '@/components/Pagination';
 import Search from '@/components/Search';
 import { getData } from '@/fetcher/fetcher';
-import { Data, Post } from '@/types/types';
+import { Data } from '@/types/types';
 import Link from 'next/link';
 import { Suspense } from 'react';
 
